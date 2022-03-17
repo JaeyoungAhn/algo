@@ -3,7 +3,7 @@ public class algo {
 
 	{
 		System.out.println("helloworld!");
-
+		System.out.println("bye world");
 
 	}
 
